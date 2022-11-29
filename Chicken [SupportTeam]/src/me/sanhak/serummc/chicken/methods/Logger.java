@@ -5,7 +5,7 @@ import org.bukkit.Bukkit;
 /**
  * [<b>SerumMC Development Team</b>] <br>
  * <br>
- * <b>Methods</b> class , It so simple logger to console the plug-in <br>
+ * <b>Methods</b> class , It so simple logger to console <br>
  * <br>
  * Class was created in <b>0.1 version</b> by Sanhak
  */
