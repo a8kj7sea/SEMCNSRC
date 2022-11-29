@@ -28,7 +28,7 @@ public class Main extends JavaPlugin { // Start
 	@Override
 	public void onEnable() {
 		m = this; // Definition of Main object
-		config = new Configuration("config.yml", this, true); // Definition of Main object
+		config = new Configuration("config.yml", this, true); // Definition of Configuration object
 		
 		CutsMethods.RegisterEvents(); // Register the events
 		CutsMethods.RegisterCommands(); // Register the commands !
