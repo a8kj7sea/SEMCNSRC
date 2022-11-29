@@ -1,0 +1,7 @@
+name: ChickenLife
+version: 0.1
+main: me.sanhak.serummc.chicken.Main.Main
+commands:
+  sclrlc:
+  sscl:
+  rscl:
