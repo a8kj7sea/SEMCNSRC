@@ -5,7 +5,7 @@
 	<li>any question about cl (Chicken life) contact with <b>Sanhak</b> </li>
 </ul>
 
-<br> <del>soon will available new update maybe will be <b>0.2</b> demo !</del>
+<br> <ins>soon will available new update maybe will be <b>0.2</b> demo !</ins>
 
 
 
